@@ -18,9 +18,18 @@ Hope some one finds this useful.
 
 Feedback appreciated. 
 
+#### Before
+
+[![alt text][1]][1]
+
+#### After
+
+[![alt text][2]][2]
 [tp_link]: <https://tampermonkey.net/>
 [repo_link]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/Quora%20hide%20count.user.js>
 [tp_new]: <http://hibbard.eu/tampermonkey-tutorial/>
 [gm_link]: <https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAAahUKEwj3xNzO147JAhWQC44KHfH2BJ8&url=https%3A%2F%2Faddons.mozilla.org%2Fen%2Ffirefox%2Faddon%2Fgreasemonkey%2F&usg=AFQjCNElj3Ji6nDxEWpzSo0sukEGG5LtKA&sig2=pxCW-odhtzcyUvezD-HG7w&bvm=bv.107467506,d.c2E>
 [gm_new]: <http://wiki.greasespot.net/Greasemonkey_Manual:Installing_Scripts>
+[1]: https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/before.png
+[2]: https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/after.png
 
