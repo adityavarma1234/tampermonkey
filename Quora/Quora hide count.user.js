@@ -15,6 +15,7 @@ function hidecount(){
     }
 }
 hidecount();
+hidecount();
 window.onscroll = function (e){
     hidecount();
 }
