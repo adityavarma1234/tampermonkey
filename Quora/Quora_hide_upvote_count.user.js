@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Quora hide count
+// @name         Quora hide view count
 // @namespace    https://github.com/adityavarma1234/
 // @version      0.1
 // @description  Quora hide upvote count, comments count, followers count.
