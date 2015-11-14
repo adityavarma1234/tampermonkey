@@ -1,13 +1,13 @@
 # tampermonkey
 Tamper Monkey Scripts
 
-# Quora
+### Quora
 
 Hi Quorans,
 
 I am strongly biased to most up voted answers, which results in me missing out on valuable answers with less up votes. This has been happening quite often lately.
 
-So to solve this problem (I mostly use Quora on chrome),to hide the count of number of up votes to an answer, I used an add on called [Tamper monkey][tp_link] for chrome and wrote a 10 line [java script][repo_link].
+So to solve this problem (I mostly use Quora on chrome), to hide the count of number of up votes to an answer, I used an add on called [Tamper monkey][tp_link] for chrome and wrote a 10 line [java script][repo_link].
 
 Additionally the script removes comments count, followers count of a topic etc. You have to import the script ([check here][tp_new] on how to add a new user script) in tamper monkey as it is and reload any tabs for it to take effect.
 
