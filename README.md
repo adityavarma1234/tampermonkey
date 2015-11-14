@@ -13,6 +13,7 @@ Additionally the script removes comments count, followers count of a topic etc. 
 
 For FireFox users you can use [grease monkey][gm_link], need to [import][gm_new] the script. 
 
+For Safari you can use [tamper monkey][tp_link].
 Hope some one finds this useful.
 
 Feedback appreciated. 
