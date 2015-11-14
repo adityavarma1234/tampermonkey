@@ -9,11 +9,17 @@ Tamper Monkey Scripts
 
 [![alt text][follow_before]][follow_before]
 
+
+[![alt text][views_count_before]][views_count_before]
+
 ##### After
 
 [![alt text][after]][after]
 
+
 [![alt text][follow_after]][follow_after]
+
+[![alt text][views_count_after]][views_count_after]
 
 
 Hi Quorans,
@@ -36,8 +42,10 @@ Hope some one finds this useful.
 [tp_new]: <http://hibbard.eu/tampermonkey-tutorial/>
 [gm_link]: <https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAAahUKEwj3xNzO147JAhWQC44KHfH2BJ8&url=https%3A%2F%2Faddons.mozilla.org%2Fen%2Ffirefox%2Faddon%2Fgreasemonkey%2F&usg=AFQjCNElj3Ji6nDxEWpzSo0sukEGG5LtKA&sig2=pxCW-odhtzcyUvezD-HG7w&bvm=bv.107467506,d.c2E>
 [gm_new]: <http://wiki.greasespot.net/Greasemonkey_Manual:Installing_Scripts>
-[before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/before.png>
-[after]: https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/after.png
-[follow_before]: https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/follow.png
-[follow_after]: https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/follow.png
+[before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/before.png?raw=true>
+[after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/after.png?raw=true>
+[follow_before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/follow.png?raw=true>
+[follow_after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/follow.png?raw=true>
 [feedback]: <https://github.com/adityavarma1234/tampermonkey/issues/new?title=Your%20question%20for%20me&body=Feel%20free%20to%20Ask%20me%20anything!>
+[views_count_after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/views_count_after.png?raw=true>
+[views_count_before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/views_count_before.png?raw=true>
