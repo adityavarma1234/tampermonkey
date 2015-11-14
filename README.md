@@ -33,7 +33,7 @@ Additionally the script removes comments count, followers count of a topic etc. 
 For FireFox users you can use [grease monkey][gm_link], need to [import][gm_new] the script. 
 
 For Safari you can use [tamper monkey][tp_link].
-Hope some one finds this useful.
+Hope some one finds this [useful][open_user_js_link].
 
 [Feedback][feedback] appreciated. 
 
@@ -49,3 +49,4 @@ Hope some one finds this useful.
 [feedback]: <https://github.com/adityavarma1234/tampermonkey/issues/new?title=Your%20question%20for%20me&body=Feel%20free%20to%20Ask%20me%20anything!>
 [views_count_after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/views_count_after.png?raw=true>
 [views_count_before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/views_count_before.png?raw=true>
+[open_user_js_link]: <https://openuserjs.org/scripts/adityavarma1234/Quora_hide_view_count>
