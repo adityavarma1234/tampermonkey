@@ -35,7 +35,12 @@ For FireFox users you can use [grease monkey][gm_link], need to [import][gm_new]
 For Safari you can use [tamper monkey][tp_link].
 Hope some one finds this [useful][open_user_js_link].
 
+### TODO 
+
+ - Add shortcut for enable and disable addon. 
+
 [Feedback][feedback] appreciated. 
+[Feature Requests][feature_request]
 
 [tp_link]: <https://tampermonkey.net/>
 [repo_link]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/Quora%20hide%20count.user.js>
@@ -47,6 +52,7 @@ Hope some one finds this [useful][open_user_js_link].
 [follow_before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/follow.png?raw=true>
 [follow_after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/follow.png?raw=true>
 [feedback]: <https://github.com/adityavarma1234/tampermonkey/issues/new?title=Your%20question%20for%20me&body=Feel%20free%20to%20Ask%20me%20anything!>
+[feature_requests]: <https://github.com/adityavarma1234/tampermonkey/issues/new?title=Feature%20name&body=Description%20about%20feature%20be%20precise%20and%20short>
 [views_count_after]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/after/views_count_after.png?raw=true>
 [views_count_before]: <https://github.com/adityavarma1234/tampermonkey/blob/master/Quora/images/before/views_count_before.png?raw=true>
 [open_user_js_link]: <https://openuserjs.org/scripts/adityavarma1234/Quora_hide_view_count>
